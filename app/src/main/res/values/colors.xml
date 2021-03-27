@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8d7d64</color>
+    <color name="colorPrimaryDark">#7f6d50</color>
+    <color name="colorAccent">#7f6d50</color>
+    <color name="colorSub">#b0afaf</color>
+    <color name="colorTex">#585858</color>
+    <color name="colordevider">#64dad8d8</color>
+    <color name="colorblue">#4c71f5</color>
+    <color name="icons">#6e6e6e</color>
+    <color name="devider">#ebebeb</color>
+    <color name="text">#223038</color>
+    <color name="subtext">#a3a4a7</color>
+    <color name="color">#767578</color>
+    <color name="black">#000000</color>
+    <color name="green">#3C763D</color>
+    <color name="edittextcolor">#CCCCCC</color>
+    <color name="red">#EA2020</color>
+    <color name="gray">#DDDDDF</color>
+    <color name="orange">#FFB606</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="lite_bg">#FCE8D8</color>
+
+</resources>

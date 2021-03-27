@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2585102744415322~1362353798</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyCnQbcJ0iVklKytjw0AYkaAzY0_5w-aOeM
+    </string>
+
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_fn">First Name</string>
+    <string name="shr_ln">Last Name</string>
+    <string name="shr_pwd">Password</string>
+    <string name="shr_mbl">Mobile Number</string>
+    <string name="shr_email_ph">Email ID</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_login">Login</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_button_submit">Submit</string>
+    <string name="shr_button_reg">Register</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+
+    <string-array name="type_gendar">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>FeMale</item>
+        <item>Transgendar</item>
+    </string-array>
+
+    <string-array name="type_products">
+        <item>Select</item>
+        <item>Groceries</item>
+        <item>Fruits</item>
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Electronics</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="type_qty">
+        <item>Select</item>
+        <item>Half Kg</item>
+        <item>Kg</item>
+        <item>2Kg</item>
+        <item>5Kg</item>
+        <item>Litre</item>
+        <item>5Litre</item>
+    </string-array>
+
+    <string-array name="type_discount">
+        <item>Select</item>
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>50%</item>
+    </string-array>
+</resources>

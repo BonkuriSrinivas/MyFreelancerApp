@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="profile_width">85dp</dimen>
+    <dimen name="profile_height">85dp</dimen>
+    <dimen name="appbar_padding_top">6dp</dimen>
+    <dimen name="navigation_drawer_width">280dp</dimen>
+
+    <dimen name="inner_radius">40dp</dimen>
+    <dimen name="outer_radius">170dp</dimen>
+    <dimen name="title_padding">18dp</dimen>
+    <dimen name="title_size">8pt</dimen>
+
+
+    <dimen name="fab_size">50dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="text_size1">14sp</dimen>
+    <dimen name="header_size">18sp</dimen>
+    <dimen name="header_size1">23sp</dimen>
+    <dimen name="tabtext_size" tools:override="true">14sp</dimen>
+    <dimen name="item_space">2dp</dimen>
+    <dimen name="design_navigation_icon_size" tools:override="true">25dp</dimen>
+    <dimen name="cont_iccon">63dp</dimen>
+    <dimen name="lay_height">120dp</dimen>
+    <dimen name="lay_height1">130dp</dimen>
+    <dimen name="header_height">40dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="stext_size">14sp</dimen>
+    <dimen name="spacing_smaller">10dp</dimen>
+</resources>
